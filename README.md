@@ -10,18 +10,17 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Description : 
+### The game of tic tac toe made as a simple angular project. 
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Deploy Link : https://tic-tac-toe-angular-game.netlify.app/
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+#Screenshots
 
-## Further help
+![Screenshot 2023-03-11 155004](https://user-images.githubusercontent.com/107243951/224478948-f6631d16-d30a-4b9d-9421-9d0b2820fa24.png)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+![Screenshot 2023-03-11 155049](https://user-images.githubusercontent.com/107243951/224479019-6c165b71-604a-460a-9530-00f79d531cd0.png)
