@@ -1,0 +1,30 @@
+<div class="row row-main">
+  <div class="col-4"></div>
+  <div class="col-4">
+    <div class="heading">
+      <h2 style="text-align: center">TicTacToe</h2>
+    </div>
+    <div class="row d-flex">
+      <div class="col-4 base" (click)="Mainfunc($event,1)"></div>
+      <div class="col-4 base" (click)="Mainfunc($event,2)"></div>
+      <div class="col-4 base" (click)="Mainfunc($event,3)"></div>
+    </div>
+    <div class="row d-flex">
+      <div class="col-4 base" (click)="Mainfunc($event,4)"></div>
+      <div class="col-4 base"(click)="Mainfunc($event,5)"></div>
+      <div class="col-4 base" (click)="Mainfunc($event,6)"></div>
+    </div>
+    <div class="row d-flex">
+      <div class="col-4 base" (click)="Mainfunc($event,7)"></div>
+      <div class="col-4 base" (click)="Mainfunc($event,8)"></div>
+      <div class="col-4 base" (click)="Mainfunc($event,9)"></div>
+    </div>
+    <div class="footing">
+      <h2 style="text-align: center m-5">{{winner}}</h2>      
+    </div>
+    <div class="button">
+      <button class="btn btn-primary m-5" (click)="newGame()">New game</button>
+    </div>
+  </div>
+  <div class="col-4"></div>
+</div>

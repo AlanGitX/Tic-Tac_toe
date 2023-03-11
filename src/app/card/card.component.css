@@ -1,0 +1,29 @@
+.base{
+    background-color: aqua;
+    display: flex;
+    height: 100px;
+    border: 2px solid black;
+    align-items: center;
+    justify-content: center;
+    
+}
+.row-main{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.base:hover{
+    background-color: aliceblue;
+}
+
+.footing{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
